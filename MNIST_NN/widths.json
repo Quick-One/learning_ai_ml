@@ -1,0 +1,26 @@
+{
+    "w64": {
+        "learning_rate" : 1e-3,
+        "batch_size": 32,
+        "epochs": 100,
+        "hidden_layers" : [64,64,64,64]
+    },
+    "w128": {
+        "learning_rate" : 1e-3,
+        "batch_size": 32,
+        "epochs": 100,
+        "hidden_layers" : [128,128,128,128]
+    },
+    "w256": {
+        "learning_rate" : 1e-3,
+        "batch_size": 32,
+        "epochs": 100,
+        "hidden_layers" : [256,256,256,256]
+    },
+    "w512": {
+        "learning_rate" : 1e-3,
+        "batch_size": 32,
+        "epochs": 100,
+        "hidden_layers" : [512,512,512,512]
+    }
+}

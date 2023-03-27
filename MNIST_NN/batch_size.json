@@ -1,0 +1,20 @@
+{
+    "b32": {
+        "learning_rate" : 1e-3,
+        "batch_size": 32,
+        "epochs": 100,
+        "hidden_layers" : [512,512,512,512]
+    },
+    "b64": {
+        "learning_rate" : 1e-3,
+        "batch_size": 64,
+        "epochs": 100,
+        "hidden_layers" : [512,512,512,512]
+    },
+    "b128": {
+        "learning_rate" : 1e-3,
+        "batch_size": 128,
+        "epochs": 100,
+        "hidden_layers" : [512,512,512,512]
+    }
+}

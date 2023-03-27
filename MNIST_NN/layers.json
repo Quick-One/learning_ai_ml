@@ -1,0 +1,26 @@
+{
+    "1layers": {
+        "learning_rate" : 1e-3,
+        "batch_size": 64,
+        "epochs": 100,
+        "hidden_layers" : [512]
+    },
+    "2layers": {
+        "learning_rate" : 1e-3,
+        "batch_size": 64,
+        "epochs": 100,
+        "hidden_layers" : [512, 512]
+    },
+    "3layers": {
+        "learning_rate" : 1e-3,
+        "batch_size": 64,
+        "epochs": 100,
+        "hidden_layers" : [512, 512, 512]
+    },
+    "4layers": {
+        "learning_rate" : 1e-3,
+        "batch_size": 64,
+        "epochs": 100,
+        "hidden_layers" : [512, 512, 512, 512]
+    }
+}
